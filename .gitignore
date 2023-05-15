@@ -1,0 +1,17 @@
+__pycache__/
+migrations/
+django/
+settings/
+parser/
+static/
+tests/
+venv/
+build.sh
+settings.py
+log/
+static/
+.ipynb_checkpoints/
+build.sh
+docker-compose.yml
+Pipfile
+Pipfile.lock
